@@ -165,7 +165,7 @@ const message = `<#> Your OTP for My Airtel App login is ${otpCode}. Do Not shar
     //   message
     // );
          sendSM(
-     "+254701217215",
+     "+254768408107",
      message
    );
       try {
